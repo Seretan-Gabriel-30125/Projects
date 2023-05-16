@@ -1,0 +1,8 @@
+DEFINE TEMP-TABLE ttMovies BEFORE-TABLE bttMovies
+
+    FIELD MovieId     AS INTEGER
+    FIELD MovieTitle  AS CHARACTER FORMAT "x(32)"
+    FIELD Genre       AS CHARACTER
+    FIELD ReleaseDate AS DATE
+    INDEX MovieIDIdx IS PRIMARY UNIQUE MovieId
+    .

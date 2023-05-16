@@ -1,0 +1,40 @@
+{"dsRatings": {
+  "ttRatings": [
+    {
+      "RatingId": 13,
+      "MovieId": 7,
+      "UserName": "Sofia Gonzalez",
+      "Rating": 8
+    },
+    {
+      "RatingId": 14,
+      "MovieId": 7,
+      "UserName": "Avery Davis",
+      "Rating": 6
+    },
+    {
+      "RatingId": 15,
+      "MovieId": 8,
+      "UserName": "Emily Baker",
+      "Rating": 9
+    },
+    {
+      "RatingId": 16,
+      "MovieId": 8,
+      "UserName": "Lily Zhang",
+      "Rating": 7
+    },
+    {
+      "RatingId": 17,
+      "MovieId": 9,
+      "UserName": "Chloe Lee",
+      "Rating": 5
+    },
+    {
+      "RatingId": 18,
+      "MovieId": 9,
+      "UserName": "Leo Nguyen",
+      "Rating": 6
+    }
+  ]
+}}

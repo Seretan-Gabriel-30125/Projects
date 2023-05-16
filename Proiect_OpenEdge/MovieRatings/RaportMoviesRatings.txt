@@ -1,0 +1,51 @@
+-------------------------------- Cinema Movie ----------------------------------------------
+
+
+--------------------------------------------------------------------------------------------
+Movie Id           Movie Title                   The Genre           Release Date
+    1              Heroic Bloodshed              Action                25/11/08
+
+Rating ID:1 -----------------------------------> Gabriel Seretan rated the movie with 10 stars.
+Rating ID:2 -----------------------------------> Ioachim Sotan rated the movie with 8 stars.
+--------------------------------------------------------------------------------------------
+Movie Id           Movie Title                   The Genre           Release Date
+    2              Espionage                     Action                26/02/97
+
+Rating ID:3 -----------------------------------> Daria Chiriac rated the movie with 9 stars.
+Rating ID:4 -----------------------------------> Diana Zahan rated the movie with 7 stars.
+--------------------------------------------------------------------------------------------
+Movie Id           Movie Title                   The Genre           Release Date
+    3              Mockumentary under 18         Comedy                19/11/22
+
+Rating ID:5 -----------------------------------> Ionut Cristian rated the movie with 8 stars.
+Rating ID:6 -----------------------------------> Razvan Linca rated the movie with 6 stars.
+--------------------------------------------------------------------------------------------
+Movie Id           Movie Title                   The Genre           Release Date
+    4              The Prank                     Comedy                13/03/22
+
+Rating ID:7 -----------------------------------> William Jameson rated the movie with 9 stars.
+Rating ID:8 -----------------------------------> Sophia Chen rated the movie with 6 stars.
+--------------------------------------------------------------------------------------------
+Movie Id           Movie Title                   The Genre           Release Date
+    5              Surrealist                    Drama                 01/11/94
+
+Rating ID:9 -----------------------------------> Ava Davis rated the movie with 10 stars.
+Rating ID:10-----------------------------------> Michael Carter rated the movie with 5 stars.
+--------------------------------------------------------------------------------------------
+Movie Id           Movie Title                   The Genre           Release Date
+    6              Absurdist                     Drama                 04/12/21
+
+Rating ID:11-----------------------------------> Benjamin Murphy rated the movie with 6 stars.
+Rating ID:12-----------------------------------> Emily Lee rated the movie with 9 stars.
+--------------------------------------------------------------------------------------------
+Movie Id           Movie Title                   The Genre           Release Date
+    8              Anything                      Comedy                05/05/15
+
+Rating ID:15-----------------------------------> Emily Baker rated the movie with 9 stars.
+Rating ID:16-----------------------------------> Lily Zhang rated the movie with 7 stars.
+--------------------------------------------------------------------------------------------
+Movie Id           Movie Title                   The Genre           Release Date
+    9              Joker                         Drama                 05/07/12
+
+Rating ID:18-----------------------------------> Leo Nguyen rated the movie with 6 stars.
+The average ratings of all movies is: 7.5882352941
