@@ -1,0 +1,16 @@
+Joc de șah
+Acesta este un program simplu pentru implementarea unui joc de șah într-un canvas HTML5. Programul permite mutarea pieselor de șah pe tabla de joc și validează mutările în funcție de regulile șahului.
+
+Instrucțiuni de utilizare
+Deschideți pagina HTML într-un browser compatibil cu HTML5.
+Pe ecran va fi afișată tabla de șah și piesele inițiale.
+Pentru a muta o piesă, faceți clic pe ea și apoi glisați-o la poziția dorită pe tabla de șah.
+Dacă mutarea este validă conform regulilor șahului, piesa va fi plasată la noua poziție. Altfel, piesa va fi readusă la poziția inițială.
+Pentru a reseta tabla de șah, apăsați butonul "Resetare".
+
+Mai trebuie implementat:
+Cazul in care un pion ajunge in capatul tablei de sah, sa poti alege cu ce piesa doresti sa inlocuiesti pionul. 
+Locada intre rege si tura.
+In mod normal regele nu poate fi scos de pe tabla de sah si trebuie implementata interzicerea acestui lucru. 
+Cand esti in sah mat sa apara end game-ul.
+etc.
